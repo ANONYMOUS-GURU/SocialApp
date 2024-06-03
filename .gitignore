@@ -1,0 +1,4 @@
+main.exe
+.vscode/launch.json
+serviceAccount.json
+.env
